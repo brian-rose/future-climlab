@@ -1,0 +1,13 @@
+name: climplay
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - xarray
+  - jupyter
+  - numba
+  - xarray-simlab
+  - graphviz
